@@ -1,0 +1,31 @@
+body{
+    text-align:center;
+    background: url("http://imgur.com/XnQHHt8.jpg");
+    background-size:cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    color:white;
+    font-family: Helvetica;
+}
+div{
+  width: 400px;
+  opacity: 0.75;
+  background-color: black;
+  margin: auto;
+  border-radius: 25px;
+
+}
+h1{
+  padding-top: 20px;
+  position: relative;
+}
+h3{
+  padding-bottom: 20px;
+}
+#bottom{
+  padding-bottom: 20px;
+}
+a{
+  color:white;
+}
